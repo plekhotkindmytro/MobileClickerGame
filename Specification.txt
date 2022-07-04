@@ -1,0 +1,4 @@
+Game perspective: Top-down (A 2D game that provides an overhead or bird’s-eye view of the action).
+Screen list: menu screen, game screen, leaderboard screen.
+Art-style: minimalist (or illustrative hand-drawn)?
+
